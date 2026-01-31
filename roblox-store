@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roblox Script Store</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f0f0f;
+    color: white;
+}
+header {
+    background: #ff3b3b;
+    padding: 20px;
+    text-align: center;
+}
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+.product {
+    background: #1c1c1c;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.buy {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #ff3b3b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.buy:hover {
+    background: #ff5c5c;
+}
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #080808;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Roblox Script Store</h1>
+    <p>Instant Delivery • Secure Payments</p>
+</header>
+
+<div class="products">
+    <div class="product">
+        <h2>Auto Farm Script</h2>
+        <p>Automate farming in supported games.</p>
+        <a class="buy" href="#" target="_blank">Buy $5</a>
+    </div>
+    <div class="product">
+        <h2>ESP Script</h2>
+        <p>See players through walls.</p>
+        <a class="buy" href="#" target="_blank">Buy $3</a>
+    </div>
+    <div class="product">
+        <h2>Speed Script</h2>
+        <p>Increase movement speed safely.</p>
+        <a class="buy" href="#" target="_blank">Buy $4</a>
+    </div>
+</div>
+
+<footer>
+    © 2026 Roblox Script Store
+</footer>
+
+</body>
+</html>
