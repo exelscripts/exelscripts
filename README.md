@@ -66,24 +66,24 @@
 <body>
 
 <header>
-    <h1>Roblox Script Store</h1>
+    <h1>EXEL SCRIPTS</h1>
 </header>
 
 <main>
     <div class="product">
-        <h2>Auto Farm Script</h2>
-        <p>Automatically farm Roblox currency with ease!</p>
-        <a class="buy-btn" href="https://www.paypal.com/paypalme/yourlink1" target="_blank">Buy Now $5</a>
+        <h2>Exel auto joiner</h2>
+        <p>Find Steal a Brainrot animals quick!</p>
+        <a class="buy-btn" href="https://www.paypal.com/paypalme/brandonpsahur" target="_blank">Buy Now $5</a>
     </div>
     <div class="product">
-        <h2>ESP Script</h2>
-        <p>See all players through walls in Roblox games!</p>
-        <a class="buy-btn" href="https://www.paypal.com/paypalme/yourlink2" target="_blank">Buy Now $3</a>
+        <h2>Exel hub</h2>
+        <p>Bunch of tools for steal a brainrot</p>
+        <a class="buy-btn" href="https://www.paypal.com/paypalme/brandonpsahur" target="_blank">Buy Now $3</a>
     </div>
     <div class="product">
-        <h2>Speed Hack Script</h2>
-        <p>Move faster than anyone else in Roblox!</p>
-        <a class="buy-btn" href="https://www.paypal.com/paypalme/yourlink3" target="_blank">Buy Now $4</a>
+        <h2>Bypassed speed boost open source</h2>
+        <p>Move faster than anyone else in Steal a brainrot!</p>
+        <a class="buy-btn" href="https://www.paypal.com/paypalme/brandonpsahur" target="_blank">Buy Now $4</a>
     </div>
 </main>
 
